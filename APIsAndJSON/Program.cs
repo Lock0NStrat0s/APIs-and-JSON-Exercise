@@ -18,6 +18,7 @@ public class Program
 
             Console.WriteLine("\n--------------------------------------------------------------------------");
             Console.WriteLine($"RON: {ron[0]}\n");
+            Thread.Sleep(1000);
             Console.WriteLine($"KANYE: {kanye["quote"]}");
             Console.WriteLine("--------------------------------------------------------------------------\n");
 
