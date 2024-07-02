@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\APIs-and-JSON-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\moham\\onedrive\\desktop\\repos\\truecoders\\apis-and-json-exercise\\apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\APIs-and-JSON-Exercise\\APIsAndJSON\\Program.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\APIs-and-JSON-Exercise\\APIsAndJSON\\Program.cs",
+              "RelativeToolTip": "APIsAndJSON\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:33:10.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
