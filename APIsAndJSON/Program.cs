@@ -8,7 +8,7 @@ public class Program
     {
         HttpClient client = new HttpClient();
 
-        while (true)
+        for (int i  = 0; i < 5; i++)
         {
             string responseRon = GetResponse("https://ron-swanson-quotes.herokuapp.com/v2/quotes", client);
             string responseKanye = GetResponse("https://api.kanye.rest", client);
